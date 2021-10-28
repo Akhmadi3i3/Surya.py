@@ -1,5 +1,4 @@
 # Surya.py
-Sc recode
 
 
 

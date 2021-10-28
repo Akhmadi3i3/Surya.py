@@ -14,4 +14,4 @@ $git clone https://github.com/Akhmadi3i3/Surya.py
 
 $cd Surya.py
 
-$python2 Surya.py
+$python2 surya.py
